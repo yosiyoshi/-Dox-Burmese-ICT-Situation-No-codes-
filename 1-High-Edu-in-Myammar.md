@@ -9,9 +9,9 @@ http://misokichi.net/2017/12/09/it-university/
 
 According to his personal experience, there are just 3 universities of ICT-related field in Myanmar:
 
-UCSY：University Computer Studies Yangon
+UCSY：University of Computer Studies Yangon
 
-UCSM：University Computer Studies Mandare
+UCSM：University of Computer Studies Mandare
 
 UIT     ： University of Information Technology (Yangon)
 
@@ -19,3 +19,5 @@ However, he appreciated UIT as the best because some students used to enter UCSY
 
 MIIT, Myanmar Institute of Information Technology, is established as the highest ICT institute in 2015.
 So these 4 universities are well-known in the industry.
+
+University of Yangon, the oldest and highest-ranked university in Myanmar also has "Department of Computer Studies," but less function because of historical interruption in under-graduate program of the university. So, as long as needing programmers and engineers for offshore development, University of Computer Studies or University of Information Technology are popular as the best ICT schools there, evaluated by Japanese companies for instance.
